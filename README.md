@@ -56,6 +56,10 @@ Develop a model that can classify the product between "interesting" and "not int
 * numpy
 * scikit-learn
 
+# V. Blog
+For more information about this analysis, you can find them Blog Report here
+https://medium.com/what-are-the-characteristics-of-a-product-that-our/if-a-company-could-create-products-that-are-customer-interest-52a56ff0df2c
+
 # V Acknowledgements
 Thanks to Udacity for providing a challenging project to work on.
 
