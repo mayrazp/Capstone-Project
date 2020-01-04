@@ -19,6 +19,7 @@ Develop a model that can classify the product between "interesting" and "not int
 1. Data Exploration: Explore the database for insights that can guide you through the learning model creation phase.
   - 1.2 Dataset Description:The dataset was written entirely in Portuguese. For a better understanding of the dataset, I will explain what each attribute means.
   - 1.3 Dataset Attributes:
+  
 | Attribute name | Description |
 |----------------|-------------|
 |ITEM_ID | Item Identifier|
