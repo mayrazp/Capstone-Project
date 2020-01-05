@@ -22,27 +22,27 @@ Develop a model that can classify the product between "interesting" and "not int
   
 | Attribute name | Description |
 |----------------|-------------|
-|ITEM_ID | Item Identifier|
-|ALTURA | Height of product |
-|CAPACIDADE| Capacity of product|
-|COMPOSICAO| Type of product material. Values: aluminum, stainless steel, ceramic, enameled steel, porcelain.|
-|COR| color|
-|FORMATO| Format type. Values: frying pan, oval, square, round and rectangular|
-|LARGURA| Width|
-|MARCA| Brand |
-|PARA_LAVA_LOUCAS| If the product can be washed in the dishwasher. Values: Yes, No|
-|PARA_MICROONDAS| If the product can be used in the microwave. Values Yes, No|
-|PESO| Weight |
-|PROFUNDIDADE| Depth |
-|TEMPO_GARANTIA| Warranty Time|
-|TEM_FERRO_FUNDIDO| It has cast iron. Values: Yes, No|
-|TEM_GRELHA| Has grid. Values: Yes, No|
-|TEM_TAMPA| Has lid. Values: 10, 0|
-|TIPO_PRODUTO| Product type. Values: Baking pan, popcorn maker, spaghetti pan, pan, custard, wok, saucepan, plate, kettle, frying pan, mug|
-|TIPO_WOK| Is wok. Values: Yes, No|
-|SESSION_ID|Session identifier|
-|ITEM_PRICE| price of the product|
-|INTERESTED| Is interested. Values: 0, 10 |
+|Item_id | Item Identifier|
+|Height | Height of product |
+|Capacity| Capacity of product in liters|
+|Type of product material| Type of product material. Values: aluminum, stainless steel, ceramic, enameled steel, porcelain.|
+|Color| color|
+|Format type| Format type. Values: frying pan, oval, square, round and rectangular|
+|Width| Width|
+|Brand| Brand |
+|Can_Be_Washed| If the product can be washed in the dishwasher. Values: Yes, No|
+|Cam_Be_Used_Microwave| If the product can be used in the microwave. Values Yes, No|
+|Weight| Weight |
+|Depth| Depth |
+|Warranty Time| Warranty Time|
+|Has_Iron| It has cast iron. Values: Yes, No|
+|Has_Grid| Has grid. Values: Yes, No|
+|Has_Lid| Has lid. Values: 10, 0|
+|Product_Type| Product type. Values: Baking pan, popcorn maker, spaghetti pan, pan, custard, wok, saucepan, plate, kettle, frying pan, mug|
+|Is_Wok| Is wok. Values: Yes, No|
+|Session_Id|Session identifier|
+|Price| price of the product|
+|Interested| Is interested. Values: 0, 10 |
 
 # III. Methodology
 1. Data Preprocessing
